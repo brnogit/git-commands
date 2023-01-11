@@ -7,3 +7,7 @@ Remover arquivos do historico do git: https://pt.stackoverflow.com/questions/583
 Remover dados sensiveis do repositório: https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
 
 Renomear branch: https://dev.to/rhymu/git-renaming-the-master-branch-137b
+
+Comando para deixar como padrão a branch main
+
+git config --global init.defaultBranch main
